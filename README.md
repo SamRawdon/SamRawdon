@@ -1,13 +1,5 @@
 <div align="center">
 
-<pre>
-┌───────────────────────────────────────────────┐
-│  Sam Rawdon                                   │
-│  CS + Math & Philosophy @ NYU                 │
-│  Full-stack builder                           │
-└───────────────────────────────────────────────┘
-</pre>
-
 # `> hey, i'm sam rawdon`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=cs,+math,+and+philosophy+student+at+nyu;full-stack+developer;solving+real+personal+problems+with+software;shipping+clean+and+fast)](https://git.io/typing-svg)
@@ -18,17 +10,17 @@
 
 ## `about me`
 
-I'm Sam, a **Computer Science student at NYU** who likes building systems that are both useful and well-designed.
+I'm a **CS, math, and philosophy student at NYU**
 
 Most of my work sits somewhere between:
 
 - full-stack app development
 - backend logic and data flow
-- UI that's sharp and intentional
-- modernizing older systems without wrecking production
+- sharp and intentional UI
+- modernizing older systems
 - using AI tools like an amplifier
 
-I like projects with moving parts — auth, state, search, CRUD flows, messy edge cases, and interfaces people actually use.
+I like projects with moving parts and real world impact
 
 ---
 
@@ -48,18 +40,6 @@ I like projects with moving parts — auth, state, search, CRUD flows, messy edg
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
 
 </div>
-
----
-
-## `current focus`
-
-```text
-> studying computer science, math, and philosophy at nyu
-> building full-stack projects with real user flows
-> working across javascript, c#, blazor, sql, and mongodb
-> interested in software engineering, systems, and product development
-> trying to make everything a little cleaner than I found it
-```
 
 ---
 
@@ -103,10 +83,13 @@ featured_projects/
 ## `interests`
 
 ```text
-full-stack systems
-developer tooling
-backend architecture
-useful interfaces
+Distributed systems
+Systems architecture
+Backend infrastructure
+Data pipelines and ETL workflows
+API design and service integration
+Database design and query optimization
+Developer tooling and internal systems
 ```
 
 ---
