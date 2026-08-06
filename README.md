@@ -32,7 +32,9 @@ I like projects with moving parts and real world impact
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00ff41)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00ff41)
+![C#](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=c-sharp&logoColor=00ff41)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
 ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=00ff41)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
@@ -67,16 +69,6 @@ featured_projects/
     ├── blazor + c# + sql
     └── modern ui, same business logic, quicker flow
 ```
-
----
-
-## `activity graph`
-
-<div align="center">
-
-[![Sam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamRawdon&theme=chartreuse-dark&hide_border=true&area=true&bg_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
