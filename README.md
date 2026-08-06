@@ -34,7 +34,7 @@ I like projects with moving parts and real world impact
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=.net&logoColor=00ff41)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
 ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=00ff41)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
